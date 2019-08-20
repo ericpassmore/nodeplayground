@@ -50,7 +50,7 @@ const puppeteer = require('puppeteer-core');
   //process.stdout.write(data);
   //console.log(jobs);
   fs.writeFile(
-    './ouput.json',
+    './output.json',
     JSON.stringify(jobs,null,2),
     (err) => err ? console.log("not written") : console.log("written ok")
   )
