@@ -1,0 +1,896 @@
+db.grouponcareers.insertMany([
+  {
+    "jobId": "120997",
+    "title": "Software Development Engineer - Merchant Platform (w/m)",
+    "location": "Berlin-Germany",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121004",
+    "title": "Data Scientist",
+    "location": "London-United Kingdom",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120859",
+    "title": "Java Developer - Analytics Tool Development",
+    "location": "Dublin-Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121008",
+    "title": "Engineering VP – Global Operations (AI /Robotics)",
+    "location": "Katowice-Poland|Warszawa-Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121012",
+    "title": "Software Development Engineer II - Engineering Excellence",
+    "location": "Bangalore-India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120860",
+    "title": "Senior Engineer (Cloud Platform & Tools)",
+    "location": "Dublin-Ireland|Remote-United Kingdom",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121016",
+    "title": "Senior Product Analyst - Search and Recommendations",
+    "location": "Dublin-Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121021",
+    "title": "Data Engineer",
+    "location": "Chicago-IL-United States of America",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121022",
+    "title": "Senior Product Manager - Scalable Supply",
+    "location": "Chicago-IL-United States of America",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121023",
+    "title": "Software Development Engineer III - Data Platform",
+    "location": "Bangalore-India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121024",
+    "title": "Cloud Platform Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120811",
+    "title": "Director of Engineering, Actionable Insights Platforms",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121032",
+    "title": "System Engineer II - Engineering Excellence",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121040",
+    "title": "SDE - Cloud Platform",
+    "location": "Berlin, Germany",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121268",
+    "title": "Software Engineer-Payments",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121052",
+    "title": "Production Systems Operations Engineer",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121055",
+    "title": "Lead Product Manager - Card Linked",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120878",
+    "title": "Engineering Manager - Customer Data Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122111",
+    "title": "Senior Director, IT & Corporate Applications",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120880",
+    "title": "Software Director, Data Interfaces",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120882",
+    "title": "Software Engineering Manager - Data & Discovery",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120883",
+    "title": "Software Development Engineer I",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120884",
+    "title": "Senior Software Development Engineer",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120885",
+    "title": "Software Manager - Data & Discovery",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121063",
+    "title": "Software Development Engineer - Optimize",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121064",
+    "title": "Software Development Engineer",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121341",
+    "title": "Software Development Engineer III -  Data Platform",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121075",
+    "title": "Lead Product Manager - Conversion",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121077",
+    "title": "Senior Product Manager: Bundling and Cross-Selling",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121078",
+    "title": "Group Product Manager, Booking Merchant Experience",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121079",
+    "title": "Software Development Engineer II - Cloud Platform & Tools",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120895",
+    "title": "Software Development Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121085",
+    "title": "Senior Product Manager, Yield and Impression Management",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120900",
+    "title": "Cloud Site Reliability Engineer",
+    "location": "Chicago, ILRemote, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120901",
+    "title": "Sr. Database Administrator",
+    "location": "Remote, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120907",
+    "title": "Lead Product Manager, Online Marketing",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121105",
+    "title": "Frontend/Full Stack Software Engineer - Things to Do",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121451",
+    "title": "Software Development Engineer",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120911",
+    "title": "Front End Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121459",
+    "title": "Software Development Engineer II - Engineering Excellence",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121460",
+    "title": "Software Development Engineer II - Engineering Excellence",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121495",
+    "title": "Software Dev Engineer II",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121498",
+    "title": "Software Dev Engineer III",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121118",
+    "title": "Senior Product Manager - Health, Beauty & Wellness",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121121",
+    "title": "Software Development Engineer II - Data Platform",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121527",
+    "title": "Software Development Engineer",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121532",
+    "title": "Network Automation Engineer",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120930",
+    "title": "Technical Project Manager",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121136",
+    "title": "Software Development Engineer - Data Pipeline Platform",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120933",
+    "title": "Marketing Insights Analyst",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product|Marketing & Communications"
+  },
+  {
+    "jobId": "120938",
+    "title": "Full Stack SDE - Software Development Engineer",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120941",
+    "title": "Software Development Engineer II - UGC Team",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120947",
+    "title": "Software Development Engineer II -Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120957",
+    "title": "Senior Software Developer (Data & Discovery)",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122112",
+    "title": "Helpdesk Analyst",
+    "location": "Valencia, Spain",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121586",
+    "title": "Software Development Engineer",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120969",
+    "title": "Software Development Engineer II - Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121602",
+    "title": "Software Engineer",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121150",
+    "title": "Senior Technical Program Manager",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120975",
+    "title": "Senior Technical Product Manager - Global Platform Team",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121878",
+    "title": "Product Manager - Supply Intelligence",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120978",
+    "title": "Product Manager",
+    "location": "Berlin, Germany",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121887",
+    "title": "RPA Engineer",
+    "location": "Katowice, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121888",
+    "title": "Software Development Engineer II - GSO",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121891",
+    "title": "Senior Product Manager - Global Platform (Back Office)",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121893",
+    "title": "Lead Product Manager - Card Linked (Consumer)",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122141",
+    "title": "Senior IT Program Manager",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125012",
+    "title": "Software Development Engineer - Paid Marketing",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125149",
+    "title": "Full-stack Software Development Engineer – Computational Marketing",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125013",
+    "title": "Software Engineer - Data Pipeline Platform",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122167",
+    "title": "Manager, Software Engineering (Big Data)",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125014",
+    "title": "Software Engineer - Data Pipeline Platform",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122171",
+    "title": "Senior Product Manager",
+    "location": "London, United Kingdom",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122183",
+    "title": "Product Manager",
+    "location": "London, United Kingdom",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122173",
+    "title": "Software Development Engineer III",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122179",
+    "title": "Sr. Engineering Manager (Merchant Data)",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122180",
+    "title": "Software Development Engineer III - Platform Engineering - UI",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122181",
+    "title": "Engineering Manager  II - Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125000",
+    "title": "Software Test Engineer",
+    "location": "Bristol, United Kingdom",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125125",
+    "title": "Senior Software Engineer - Data Pipeline Platform",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121190",
+    "title": "Software Director- Data Interfaces",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120983",
+    "title": "Staff Software Engineer",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120985",
+    "title": "Software Development Engineer, Back End",
+    "location": "San Francisco, CA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120986",
+    "title": "Information Security Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120989",
+    "title": "Software Development Engineer, Android",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120990",
+    "title": "Software Development Engineer, iOS",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122117",
+    "title": "Product Designer (Open)",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122168",
+    "title": "Director, International Engineering",
+    "location": "Dublin, IrelandLondon, United Kingdom",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121999",
+    "title": "Business Intelligence Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125270",
+    "title": "Software Development Engineer III -Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125675",
+    "title": "Software Development Engineer",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125593",
+    "title": "Data Scientist - Marketing",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125269",
+    "title": "Software Development Engineer IV -Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125758",
+    "title": "Senior Big Data Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121007",
+    "title": "Software Development Engineer II - Engineering Excellence",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125737",
+    "title": "Software Engineer - Data Pipeline Platform",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120999",
+    "title": "Software Development Engineer III - GSO",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125799",
+    "title": "Senior Product Manager - Push Marketing",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125818",
+    "title": "Software Engineer - Mobile Tools and Infrastructure",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121014",
+    "title": "Manager, Systems Engineering",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120904",
+    "title": "Mobile Tools and Release Engineer - iOS",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121414",
+    "title": "Mobile Tools and Release Engineer - Android",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125890",
+    "title": "Software Engineer (Fullstack Developer)",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125831",
+    "title": "Director, Product Management, Online Marketing Platform",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125772",
+    "title": "Software Development Engineer II - Consumer Marketing",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126006",
+    "title": "Senior Data Warehouse Engineer",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126005",
+    "title": "Software Engineer",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126004",
+    "title": "Software Engineer",
+    "location": "Santa Clara, CA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126003",
+    "title": "Software Engineer",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120952",
+    "title": "Software Engineer in Test for Merchant Finance",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121499",
+    "title": "Machine Learning Scientist III",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126038",
+    "title": "Software Development Engineer II - Goods",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121873",
+    "title": "Technical Program Manager (Customer, Merchant and Support, Programs)",
+    "location": "Berlin, GermanyDublin, IrelandLondon, United KingdomChicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126072",
+    "title": "Network Automation Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126171",
+    "title": "Marketing Data Analyst",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120891",
+    "title": "Production Support Engineer -  Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120946",
+    "title": "Software Development Engineer II -Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126178",
+    "title": "Software Development Engineer - Customer Data Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125774",
+    "title": "Software Development Engineer III - Consumer Marketing",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126180",
+    "title": "Technical Program/Project Manager IV - Engineering Excellence",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121339",
+    "title": "Software Development Engineer III - Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121461",
+    "title": "Software Development Engineer IV - Engineering Excellence",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120937",
+    "title": "Full Stack Software Engineer",
+    "location": "Seattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "122107",
+    "title": "Software Test Engineer, Mobile",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126111",
+    "title": "Information Security Engineer",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121006",
+    "title": "Software Development Engineer III - Engineering Excellence",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126187",
+    "title": "Director, Search & Recommendations Relevance & Machine Learning",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126035",
+    "title": "Senior Software Engineer-Payments",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126250",
+    "title": "Senior Software Developer (Data & Discovery)",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125959",
+    "title": "Data Scientist - Groupon Goods",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120944",
+    "title": "Manager, Software Engineering-Health, Beauty & Wellness",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "125958",
+    "title": "Senior Product Manager",
+    "location": "Chicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126214",
+    "title": "Software Development Engineer II - Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126215",
+    "title": "Software Development Engineer III - Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121884",
+    "title": "Software Development Engineer III - Platform Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121355",
+    "title": "Software Development Engineer II",
+    "location": "Berlin, Germany",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126185",
+    "title": "Senior Network Engineer",
+    "location": "Chicago, ILRemote, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126036",
+    "title": "Senior Cloud Data Platform Engineer",
+    "location": "Dublin, IrelandChicago, ILSeattle, WA",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121250",
+    "title": "Software Development Engineer III (Merchant Engineering)",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126189",
+    "title": "Helpdesk Analyst",
+    "location": "Warszawa, Poland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126402",
+    "title": "Technical Program Manager",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121874",
+    "title": "Director, User Experience Research",
+    "location": "Chicago, IL",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126431",
+    "title": "Manager, Data Engineering",
+    "location": "Bangalore, India",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121358",
+    "title": "Front-End Software Engineer",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "126080",
+    "title": "Software Engineer – Metrics & Observability (SDE II)",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120893",
+    "title": "Front-End Software Engineer",
+    "location": "Berlin, Germany",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121084",
+    "title": "Senior Software Engineer (m/f)",
+    "location": "Berlin, Germany",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "121080",
+    "title": "Software Development Engineer (m/F)",
+    "location": "Berlin, Germany",
+    "dept": "Technology & Product"
+  },
+  {
+    "jobId": "120920",
+    "title": "Manager, Software Engineering",
+    "location": "Dublin, Ireland",
+    "dept": "Technology & Product"
+  }
+]);
